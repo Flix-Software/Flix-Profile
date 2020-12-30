@@ -1,6 +1,4 @@
 # Flix-Profile
-profile page flix
+profile page creator by flixing
 
-Profile Page for web-page and mobile app for containing the profile details and recent projects done by the person.
-
-Use as a Overview 
+Profile Page creator for web-page and mobile app for containing the profile details and recent projects done by the person.
